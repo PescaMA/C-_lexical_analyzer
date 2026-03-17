@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1773749815 source:/home/Matei/An_1_licenta/AN3_SEM2/fpc/proiect_1/cppInCpp/cpp_in_cpp1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<array>
+

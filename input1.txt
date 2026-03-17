@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+      
+
+int main(){
+	int n,a1b_1x,13gresit;
+	cin >>n;
+	if(n%2 || n%2 ==-- 1.8.7) // echivalente dar scrise diferit
+		cout << "imp\
+ar";
+	else{
+		cout << "par;}
+		
+	/* comentariu/* mesaj
+	
+	ce e lung****/
+	
+	return
+	
+	/*/ // <-- fake multiline comment
+}
